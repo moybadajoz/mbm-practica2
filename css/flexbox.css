@@ -46,11 +46,12 @@ nav {
 
 .noticias {
     width: 75%;
-
+    background: rgb(234, 234, 234);
 }
 
 .menulateral {
-    width: 25%s;
+    width: 25%;
+    background: rgb(147, 201, 248);
 }
 
 .piepagina {
